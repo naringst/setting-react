@@ -10,9 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@stomp/stompjs": "^7.0.0",
+    "@tanstack/react-query": "^5.12.2",
+    "codemirror": "^6.0.1",
     "git": "^0.1.5",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-arborist": "^3.3.0-rc.1",
+    "react-dom": "^18.2.0",
+    "sockjs-client": "^1.6.1",
+    "yorkie-js-sdk": "^0.4.10"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
